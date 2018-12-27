@@ -1,0 +1,16 @@
+Sex,PrimarySite,Grade,HistologicType,AgeAtDiagnosis,CsTumorSize,TotalNumberOfInSituMalignantTumorsForPatient
+Male,169,Moderately differentiated; Grade II,8140,68,20,1
+Male,162,Poorly differentiated; Grade III,8144,66,27,1
+Female,169,Poorly differentiated; Grade III,8140,45,30,2
+Female,162,Poorly differentiated; Grade III,8490,40,30,1
+Female,168,Poorly differentiated; Grade III,8490,54,30,1
+Female,163,Poorly differentiated; Grade III,8490,78,30,1
+Female,163,Poorly differentiated; Grade III,8140,59,35,1
+Female,160,Unknown,8936,42,35,2
+Female,163,Moderately differentiated; Grade II,8144,75,38,1
+Female,160,Moderately differentiated; Grade II,8144,75,43,1
+Male,163,Poorly differentiated; Grade III,8140,79,46,1
+Female,169,Unknown,8936,56,60,1
+Female,165,Moderately differentiated; Grade II,8144,73,70,2
+Male,162,Moderately differentiated; Grade II,8936,53,170,2
+Female,169,Unknown,8936,62,175,1
